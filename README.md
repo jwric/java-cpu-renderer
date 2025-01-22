@@ -1,0 +1,1 @@
+This was originally part of a semester project for Universté Laval. This repository holds the unedited code for the rendering part of this project only.
